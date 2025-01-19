@@ -15,28 +15,28 @@ Flutter cross-platform template with CI/CD for automatic releases and GitHub Pag
 
 </details>
 
-## Setup on cli
+## Setup on CLI
 
 ```bash
-# Clonar o repositório do template como my_app
+# Clone the template repository as my_app
 git clone https://github.com/brunodavi/flutter_cross_platform_ci_cd my_app
 
-# Navegar para o diretório do projeto
+# Navigate to the project directory
 cd my_app
 
-# Adicionar o repositório remoto
+# Add the remote repository
 git remote add origin https://github.com/brunodavi/flutter_cross_platform_ci_cd
 
-# Fazer commit das alterações iniciais
+# Commit the initial setup
 git add .
 git commit -m "initial setup"
 
-# Push para o repositório no GitHub
+# Push to the GitHub repository
 git push -u origin main
 
-# Configurar o GitHub Pages (no repositório, vá para Settings > Pages e selecione a branch 'gh-pages')
+# Configure GitHub Pages (on the repository, go to Settings > Pages and select the 'gh-pages' branch)
 
-# Renomear arquivos com o nome do app
+# Rename files with the app name
 ```
 
 ## Workflows
@@ -47,7 +47,7 @@ Create releases and publish from CI/CD at each new tag
 - [ ] Windows
 - [ ] Linux AppImage
 - [ ] MacOS
-- [ ] IOS
+- [ ] iOS
 
 ### Web
 Deploy application in GitHub Pages
