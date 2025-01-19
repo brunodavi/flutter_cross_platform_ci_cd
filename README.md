@@ -38,4 +38,4 @@ Create releases and publish from CI/CD at each new tag
 To deploy, go to settings in pages and select the `gh-pages` branch.
 
 ### Test
-Test the application before generating the github pages or generating the release
+Test the application before generating the github pages or release
