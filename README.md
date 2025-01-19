@@ -1,6 +1,6 @@
 # Flutter Cross Platform with CI/CD
 
-A new Flutter project with CI/CD.
+Flutter cross-platform template with CI/CD for automatic releases and GitHub Pages deployment.
 
 <details>
   <summary>Screenshots</summary>
