@@ -28,11 +28,12 @@ Click `Use this template` and use this template!
 
 ### Releases
 Create releases and publish from CI/CD at each new tag
-- [ ] Android
-- [ ] Windows
-- [ ] Linux AppImage
-- [ ] MacOS
-- [ ] iOS
+- [ ] [Windows](/../../issues/1)
+- [ ] [Linux](/../../issues/8)
+- [ ] [MacOS](/../../issues/15)
+- [ ] [Android](/../../issues/19)
+- [ ] [iOS](/../../issues/22)
+- [ ] [Web PWA](/../../issues/24)
 
 ### Web
 To deploy, go to settings in pages and select the `gh-pages` branch.
